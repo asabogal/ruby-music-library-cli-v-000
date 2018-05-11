@@ -9,6 +9,8 @@ class MusicLibraryController
     puts "*******************************"
     puts "Welcome to your music library!"
     puts "*******************************"
+    puts
+    puts
     input = ""
     until input == "exit"
 
