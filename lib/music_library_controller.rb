@@ -7,9 +7,10 @@ class MusicLibraryController
 
   def call
     puts "*******************************"
+    puts "*******************************"
     puts "Welcome to your music library!"
     puts "*******************************"
-    puts
+    puts "*******************************"
     input = ""
     until input == "exit"
 
@@ -21,7 +22,7 @@ class MusicLibraryController
       puts "To list all of the songs of a particular genre, enter 'list genre'."
       puts "To play a song, enter 'play song'."
       puts "To quit, type 'exit'."
-      puts 
+      puts
       puts "What would you like to do?"
 
       input = gets.strip
