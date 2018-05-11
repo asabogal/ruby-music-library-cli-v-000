@@ -8,7 +8,7 @@ class MusicLibraryController
   def call
     puts "*******************************"
     puts "*******************************"
-    puts "Welcome to your HANKA'S SHITTY MUSIC library!"
+    puts "Welcome to HANKA'S SHITTY MUSIC library!"
     puts "*******************************"
     puts "*******************************"
     input = ""
